@@ -113,6 +113,11 @@
             </releases>
         </pluginRepository>
     </pluginRepositories>
+  
+    <modules>
+        <module>components/org.wso2.carbon.identity.data.publisher.oauth</module>
+        <module>features/org.wso2.carbon.identity.data.publisher.oauth.server.feature</module>
+    </modules>
 
     <dependencyManagement>
         <dependencies>
@@ -246,10 +251,5 @@
         <commons-logging.osgi.version.range>[1.2,2.0)</commons-logging.osgi.version.range>
         <commons-lang.wso2.osgi.version.range>[2.6.0,3.0.0)</commons-lang.wso2.osgi.version.range>
     </properties>
-
-    <modules>
-        <module>components/org.wso2.carbon.identity.data.publisher.oauth</module>
-        <module>features/org.wso2.carbon.identity.data.publisher.oauth.server.feature</module>
-    </modules>
 
 </project>
