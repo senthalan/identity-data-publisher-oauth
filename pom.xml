@@ -34,10 +34,10 @@
     <url>http://wso2.org</url>
 
     <scm>
-        <url>https://github.com/wso2-extensions/identity-data-publisher-oauth.git</url>
-        <developerConnection>scm:git:https://github.com/wso2-extensions/identity-data-publisher-oauth.git
+        <url>https://github.com/senthalan/identity-data-publisher-oauth.git</url>
+        <developerConnection>scm:git:https://github.com/senthalan/identity-data-publisher-oauth.git
         </developerConnection>
-        <connection>scm:git:https://github.com/wso2-extensions/identity-data-publisher-oauth.git</connection>
+        <connection>scm:git:https://github.com/senthalan/identity-data-publisher-oauth.git</connection>
         <tag>HEAD</tag>
     </scm>
 
